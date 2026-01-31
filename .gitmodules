@@ -1,0 +1,3 @@
+[submodule "custom_modules/godotsteam"]
+	path = custom_modules/godotsteam
+	url = https://codeberg.org/godotsteam/godotsteam.git
