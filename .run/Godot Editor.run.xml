@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Godot Editor" type="CLionExternalRunConfiguration" factoryName="Application" folderName="Editor" PROGRAM_PARAMS="--editor" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="godot-kiwi" TARGET_NAME="Godot Editor" CONFIG_NAME="Godot Editor" RUN_PATH="$PROJECT_DIR$/bin/godot.windows.editor.x86_64.exe">
+    <method v="2">
+      <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+    </method>
+  </configuration>
+</component>
